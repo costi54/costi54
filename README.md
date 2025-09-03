@@ -23,14 +23,15 @@ I'm passionate about technology and programming. I love learning new things and 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cost154&layout=compact&theme=radical)
 
+## 🎯 Featured Projects
+
+- [✅ Todo List App](https://cost154.github.io/todo-list-app/) - A clean and functional todo list web application
+- [🔗 Project 2](https://github.com/cost154/) - Short description (add your real projects here)
+- [🔗 Project 3](https://github.com/cost154/) - Short description (add your real projects here)
+
 ## 📫 How to Reach Me
 
 - GitHub: [cost154](https://github.com/cost154)
-- Email: [your-email@example.com]
+- Email: [your-email@example.com] (replace with your real email)
 
-## 🎯 Featured Projects
-
-- [Project 1](https://github.com/cost154/project1) - Short description
-- [Project 2](https://github.com/cost154/project2) - Short description
-
-⚡ **Fun fact:** I love solving coding challenges!
+⚡ **Fun fact:** I love solving coding challenges and building useful applications!

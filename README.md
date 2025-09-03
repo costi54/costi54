@@ -19,9 +19,9 @@ I'm passionate about technology and programming. I love learning new things and 
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cost154&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=costi54&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cost154&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=costi54&layout=compact&theme=radical)
 
 ## 🎯 Featured Projects
 
@@ -29,9 +29,12 @@ I'm passionate about technology and programming. I love learning new things and 
 - [🔗 Project 2](https://github.com/cost154/) - Short description (add your real projects here)
 - [🔗 Project 3](https://github.com/cost154/) - Short description (add your real projects here)
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
-- GitHub: [cost154](https://github.com/cost154)
-- Email: [your-email@example.com] (replace with your real email)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cost154)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/costi.54)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@costi.54)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lKRVX)
+
 
 ⚡ **Fun fact:** I love solving coding challenges and building useful applications!

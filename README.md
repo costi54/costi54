@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Costi
 
-<!--
-**costi54/costi54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Passionate Developer | Continuous Learner
 
-Here are some ideas to get you started:
+I'm passionate about technology and programming. I love learning new things and building interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** JavaScript, Python, HTML, CSS
+- **Tools:** Git, VS Code, GitHub
+- **Currently Learning:** [add technologies you're learning]
+
+## 📈 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cost154&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cost154&layout=compact&theme=radical)
+
+## 📫 How to Reach Me
+
+- GitHub: [cost154](https://github.com/cost154)
+- [Add your other contacts here: LinkedIn, Email, etc.]
+
+## 🎯 Projects
+
+- [Add your important projects here]
+- [Each with link to repository]
+
+⚡ **Fun fact:** I [add a fun fact about yourself]

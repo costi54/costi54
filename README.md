@@ -25,9 +25,9 @@ I'm passionate about technology and programming. I love learning new things and 
 
 ## 🎯 Featured Projects
 
-- [✅ Todo List App](https://costi54.github.io/todo-list-app/) - A clean and functional todo list web application
-- [🔗 Project 2](https://github.com/costi54/) - Short description (add your real projects here)
-- [🔗 Project 3](https://github.com/costi54/) - Short description (add your real projects here)
+-
+-
+-
 
 ## 📫 Connect with Me
 

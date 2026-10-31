@@ -102,20 +102,6 @@ A personal development project focused on adapting and working on InfinityExpans
 
 </div>
 
----
-
-<br>
-
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=costi54&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
-
-</div>
-
----
-
 <br>
 
 ## `> beyond the code`
